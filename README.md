@@ -220,7 +220,7 @@ Stay connected with the latest updates and community by joining our official Wha
 ### Thanks To Team ⤵️
 
 > LADLA-MALIK-MD Owner 
-- [𒁂𓄂❥𝙄𝙩𝙭•𝙇𝙖ڈ𝙡𝙖💥𝙈𝙖ل𝙞𝙠༽༼гՇ࿐](https://github.com/ladla-malik/LADLA-MALIK-MD)
+- [ladla-malik](https://github.com/ladla-malik/LADLA-MALIK-MD)
 - Creater and Owner Of LADLA-MALIK-MD
 > LADLA-MALIK-MD Helpers 
 - [ROMEKTRICKS](https://github.com/ROMEKTRICKS)
