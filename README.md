@@ -1,12 +1,12 @@
 <p align="center">
-  <h1 align="center">LADLA-MALIK-MD 3.0</h1>
+  <h1 align="center">LADLA-MALIK-MD 1.0</h1>
 </p>
 
 > **`Updated To` The Version 1.0**
 ---
 
 ```
-Happy New Year 2025 ⭐🥳
+Happy Birthday Mano ⭐🥳
 ```
 ---
 
