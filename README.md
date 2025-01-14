@@ -1,12 +1,12 @@
 <p align="center">
-  <h1 align="center">LADLA-MALIK-MD 1.0</h1>
+  <h1 align="center">LADLA-MALIK-MD 3.0</h1>
 </p>
 
 > **`Updated To` The Version 1.0**
 ---
 
 ```
-Happy Birthday Mano ⭐🥳
+Happy New Year 2025 ⭐🥳
 ```
 ---
 
@@ -220,7 +220,7 @@ Stay connected with the latest updates and community by joining our official Wha
 ### Thanks To Team ⤵️
 
 > LADLA-MALIK-MD Owner 
-- [ladla-malik](https://github.com/ladla-malik/LADLA-MALIK-MD)
+- [𒁂𓄂❥𝙄𝙩𝙭•𝙇𝙖ڈ𝙡𝙖💥𝙈𝙖ل𝙞𝙠༽༼гՇ࿐](https://github.com/ladla-malik/LADLA-MALIK-MD)
 - Creater and Owner Of LADLA-MALIK-MD
 > LADLA-MALIK-MD Helpers 
 - [ROMEKTRICKS](https://github.com/ROMEKTRICKS)
