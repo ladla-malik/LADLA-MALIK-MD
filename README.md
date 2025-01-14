@@ -18,7 +18,7 @@
 
 </details>
 <hr>
-<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𒁂𓄂𝙄𝙩𝙭•𝙇𝙖ڈ𝙡𝙖💥𝙈𝙖ل𝙞𝙠༽༼࿐" alt="">
+<img src="http://readme-typing-svg.herokuapp.com?color=d1fa02&center=true&vCenter=true&multiline=false&lines=𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+👑Laڈla🔥Maلik✨🎭" alt="">
 <hr>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
